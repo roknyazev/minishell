@@ -1,5 +1,16 @@
 file(REMOVE_RECURSE
   "CMakeFiles/minishell.dir/main.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o"
+  "CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o"
+  "CMakeFiles/minishell.dir/parser/word.c.o"
   "minishell"
   "minishell.pdb"
 )

@@ -90,17 +90,182 @@ CMakeFiles/minishell.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/main.c -o CMakeFiles/minishell.dir/main.c.s
 
+CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o: ../parser/utils/ft_strlen.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_strlen.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_strlen.c > CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_strlen.c -o CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o: ../parser/utils/ft_lstadd_back.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_back.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_back.c > CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_back.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o: ../parser/utils/ft_lstadd_front.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_front.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_front.c > CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_front.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o: ../parser/utils/ft_lstclear.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstclear.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstclear.c > CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstclear.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o: ../parser/utils/ft_lstdelone.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstdelone.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstdelone.c > CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstdelone.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o: ../parser/utils/ft_lstiter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstiter.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstiter.c > CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstiter.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o: ../parser/utils/ft_lstlast.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstlast.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstlast.c > CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstlast.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o: ../parser/utils/ft_lstnew.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstnew.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstnew.c > CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstnew.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o: ../parser/utils/ft_lstsize.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_lstsize.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_lstsize.c > CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_lstsize.c -o CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.s
+
+CMakeFiles/minishell.dir/parser/word.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/word.c.o: ../parser/word.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/minishell.dir/parser/word.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/word.c.o   -c /Users/wrudy/Desktop/minishell/parser/word.c
+
+CMakeFiles/minishell.dir/parser/word.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/word.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/word.c > CMakeFiles/minishell.dir/parser/word.c.i
+
+CMakeFiles/minishell.dir/parser/word.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/word.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/word.c -o CMakeFiles/minishell.dir/parser/word.c.s
+
+CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o: CMakeFiles/minishell.dir/flags.make
+CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o: ../parser/utils/ft_strdup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o   -c /Users/wrudy/Desktop/minishell/parser/utils/ft_strdup.c
+
+CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wrudy/Desktop/minishell/parser/utils/ft_strdup.c > CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.i
+
+CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wrudy/Desktop/minishell/parser/utils/ft_strdup.c -o CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.s
+
 # Object files for target minishell
 minishell_OBJECTS = \
-"CMakeFiles/minishell.dir/main.c.o"
+"CMakeFiles/minishell.dir/main.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o" \
+"CMakeFiles/minishell.dir/parser/word.c.o" \
+"CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o"
 
 # External object files for target minishell
 minishell_EXTERNAL_OBJECTS =
 
 minishell: CMakeFiles/minishell.dir/main.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o
+minishell: CMakeFiles/minishell.dir/parser/word.c.o
+minishell: CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o
 minishell: CMakeFiles/minishell.dir/build.make
 minishell: CMakeFiles/minishell.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable minishell"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wrudy/Desktop/minishell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking C executable minishell"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/minishell.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

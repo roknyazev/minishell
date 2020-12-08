@@ -170,6 +170,303 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/main.c.s
 .PHONY : main.c.s
 
+parser/utils/ft_lstadd_back.o: parser/utils/ft_lstadd_back.c.o
+
+.PHONY : parser/utils/ft_lstadd_back.o
+
+# target to build an object file
+parser/utils/ft_lstadd_back.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o
+.PHONY : parser/utils/ft_lstadd_back.c.o
+
+parser/utils/ft_lstadd_back.i: parser/utils/ft_lstadd_back.c.i
+
+.PHONY : parser/utils/ft_lstadd_back.i
+
+# target to preprocess a source file
+parser/utils/ft_lstadd_back.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.i
+.PHONY : parser/utils/ft_lstadd_back.c.i
+
+parser/utils/ft_lstadd_back.s: parser/utils/ft_lstadd_back.c.s
+
+.PHONY : parser/utils/ft_lstadd_back.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstadd_back.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.s
+.PHONY : parser/utils/ft_lstadd_back.c.s
+
+parser/utils/ft_lstadd_front.o: parser/utils/ft_lstadd_front.c.o
+
+.PHONY : parser/utils/ft_lstadd_front.o
+
+# target to build an object file
+parser/utils/ft_lstadd_front.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.o
+.PHONY : parser/utils/ft_lstadd_front.c.o
+
+parser/utils/ft_lstadd_front.i: parser/utils/ft_lstadd_front.c.i
+
+.PHONY : parser/utils/ft_lstadd_front.i
+
+# target to preprocess a source file
+parser/utils/ft_lstadd_front.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.i
+.PHONY : parser/utils/ft_lstadd_front.c.i
+
+parser/utils/ft_lstadd_front.s: parser/utils/ft_lstadd_front.c.s
+
+.PHONY : parser/utils/ft_lstadd_front.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstadd_front.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstadd_front.c.s
+.PHONY : parser/utils/ft_lstadd_front.c.s
+
+parser/utils/ft_lstclear.o: parser/utils/ft_lstclear.c.o
+
+.PHONY : parser/utils/ft_lstclear.o
+
+# target to build an object file
+parser/utils/ft_lstclear.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.o
+.PHONY : parser/utils/ft_lstclear.c.o
+
+parser/utils/ft_lstclear.i: parser/utils/ft_lstclear.c.i
+
+.PHONY : parser/utils/ft_lstclear.i
+
+# target to preprocess a source file
+parser/utils/ft_lstclear.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.i
+.PHONY : parser/utils/ft_lstclear.c.i
+
+parser/utils/ft_lstclear.s: parser/utils/ft_lstclear.c.s
+
+.PHONY : parser/utils/ft_lstclear.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstclear.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstclear.c.s
+.PHONY : parser/utils/ft_lstclear.c.s
+
+parser/utils/ft_lstdelone.o: parser/utils/ft_lstdelone.c.o
+
+.PHONY : parser/utils/ft_lstdelone.o
+
+# target to build an object file
+parser/utils/ft_lstdelone.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.o
+.PHONY : parser/utils/ft_lstdelone.c.o
+
+parser/utils/ft_lstdelone.i: parser/utils/ft_lstdelone.c.i
+
+.PHONY : parser/utils/ft_lstdelone.i
+
+# target to preprocess a source file
+parser/utils/ft_lstdelone.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.i
+.PHONY : parser/utils/ft_lstdelone.c.i
+
+parser/utils/ft_lstdelone.s: parser/utils/ft_lstdelone.c.s
+
+.PHONY : parser/utils/ft_lstdelone.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstdelone.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstdelone.c.s
+.PHONY : parser/utils/ft_lstdelone.c.s
+
+parser/utils/ft_lstiter.o: parser/utils/ft_lstiter.c.o
+
+.PHONY : parser/utils/ft_lstiter.o
+
+# target to build an object file
+parser/utils/ft_lstiter.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.o
+.PHONY : parser/utils/ft_lstiter.c.o
+
+parser/utils/ft_lstiter.i: parser/utils/ft_lstiter.c.i
+
+.PHONY : parser/utils/ft_lstiter.i
+
+# target to preprocess a source file
+parser/utils/ft_lstiter.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.i
+.PHONY : parser/utils/ft_lstiter.c.i
+
+parser/utils/ft_lstiter.s: parser/utils/ft_lstiter.c.s
+
+.PHONY : parser/utils/ft_lstiter.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstiter.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstiter.c.s
+.PHONY : parser/utils/ft_lstiter.c.s
+
+parser/utils/ft_lstlast.o: parser/utils/ft_lstlast.c.o
+
+.PHONY : parser/utils/ft_lstlast.o
+
+# target to build an object file
+parser/utils/ft_lstlast.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.o
+.PHONY : parser/utils/ft_lstlast.c.o
+
+parser/utils/ft_lstlast.i: parser/utils/ft_lstlast.c.i
+
+.PHONY : parser/utils/ft_lstlast.i
+
+# target to preprocess a source file
+parser/utils/ft_lstlast.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.i
+.PHONY : parser/utils/ft_lstlast.c.i
+
+parser/utils/ft_lstlast.s: parser/utils/ft_lstlast.c.s
+
+.PHONY : parser/utils/ft_lstlast.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstlast.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstlast.c.s
+.PHONY : parser/utils/ft_lstlast.c.s
+
+parser/utils/ft_lstnew.o: parser/utils/ft_lstnew.c.o
+
+.PHONY : parser/utils/ft_lstnew.o
+
+# target to build an object file
+parser/utils/ft_lstnew.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o
+.PHONY : parser/utils/ft_lstnew.c.o
+
+parser/utils/ft_lstnew.i: parser/utils/ft_lstnew.c.i
+
+.PHONY : parser/utils/ft_lstnew.i
+
+# target to preprocess a source file
+parser/utils/ft_lstnew.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.i
+.PHONY : parser/utils/ft_lstnew.c.i
+
+parser/utils/ft_lstnew.s: parser/utils/ft_lstnew.c.s
+
+.PHONY : parser/utils/ft_lstnew.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstnew.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.s
+.PHONY : parser/utils/ft_lstnew.c.s
+
+parser/utils/ft_lstsize.o: parser/utils/ft_lstsize.c.o
+
+.PHONY : parser/utils/ft_lstsize.o
+
+# target to build an object file
+parser/utils/ft_lstsize.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o
+.PHONY : parser/utils/ft_lstsize.c.o
+
+parser/utils/ft_lstsize.i: parser/utils/ft_lstsize.c.i
+
+.PHONY : parser/utils/ft_lstsize.i
+
+# target to preprocess a source file
+parser/utils/ft_lstsize.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.i
+.PHONY : parser/utils/ft_lstsize.c.i
+
+parser/utils/ft_lstsize.s: parser/utils/ft_lstsize.c.s
+
+.PHONY : parser/utils/ft_lstsize.s
+
+# target to generate assembly for a file
+parser/utils/ft_lstsize.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.s
+.PHONY : parser/utils/ft_lstsize.c.s
+
+parser/utils/ft_strdup.o: parser/utils/ft_strdup.c.o
+
+.PHONY : parser/utils/ft_strdup.o
+
+# target to build an object file
+parser/utils/ft_strdup.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o
+.PHONY : parser/utils/ft_strdup.c.o
+
+parser/utils/ft_strdup.i: parser/utils/ft_strdup.c.i
+
+.PHONY : parser/utils/ft_strdup.i
+
+# target to preprocess a source file
+parser/utils/ft_strdup.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.i
+.PHONY : parser/utils/ft_strdup.c.i
+
+parser/utils/ft_strdup.s: parser/utils/ft_strdup.c.s
+
+.PHONY : parser/utils/ft_strdup.s
+
+# target to generate assembly for a file
+parser/utils/ft_strdup.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.s
+.PHONY : parser/utils/ft_strdup.c.s
+
+parser/utils/ft_strlen.o: parser/utils/ft_strlen.c.o
+
+.PHONY : parser/utils/ft_strlen.o
+
+# target to build an object file
+parser/utils/ft_strlen.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.o
+.PHONY : parser/utils/ft_strlen.c.o
+
+parser/utils/ft_strlen.i: parser/utils/ft_strlen.c.i
+
+.PHONY : parser/utils/ft_strlen.i
+
+# target to preprocess a source file
+parser/utils/ft_strlen.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.i
+.PHONY : parser/utils/ft_strlen.c.i
+
+parser/utils/ft_strlen.s: parser/utils/ft_strlen.c.s
+
+.PHONY : parser/utils/ft_strlen.s
+
+# target to generate assembly for a file
+parser/utils/ft_strlen.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_strlen.c.s
+.PHONY : parser/utils/ft_strlen.c.s
+
+parser/word.o: parser/word.c.o
+
+.PHONY : parser/word.o
+
+# target to build an object file
+parser/word.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/word.c.o
+.PHONY : parser/word.c.o
+
+parser/word.i: parser/word.c.i
+
+.PHONY : parser/word.i
+
+# target to preprocess a source file
+parser/word.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/word.c.i
+.PHONY : parser/word.c.i
+
+parser/word.s: parser/word.c.s
+
+.PHONY : parser/word.s
+
+# target to generate assembly for a file
+parser/word.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/word.c.s
+.PHONY : parser/word.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +479,39 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... parser/utils/ft_lstadd_back.o"
+	@echo "... parser/utils/ft_lstadd_back.i"
+	@echo "... parser/utils/ft_lstadd_back.s"
+	@echo "... parser/utils/ft_lstadd_front.o"
+	@echo "... parser/utils/ft_lstadd_front.i"
+	@echo "... parser/utils/ft_lstadd_front.s"
+	@echo "... parser/utils/ft_lstclear.o"
+	@echo "... parser/utils/ft_lstclear.i"
+	@echo "... parser/utils/ft_lstclear.s"
+	@echo "... parser/utils/ft_lstdelone.o"
+	@echo "... parser/utils/ft_lstdelone.i"
+	@echo "... parser/utils/ft_lstdelone.s"
+	@echo "... parser/utils/ft_lstiter.o"
+	@echo "... parser/utils/ft_lstiter.i"
+	@echo "... parser/utils/ft_lstiter.s"
+	@echo "... parser/utils/ft_lstlast.o"
+	@echo "... parser/utils/ft_lstlast.i"
+	@echo "... parser/utils/ft_lstlast.s"
+	@echo "... parser/utils/ft_lstnew.o"
+	@echo "... parser/utils/ft_lstnew.i"
+	@echo "... parser/utils/ft_lstnew.s"
+	@echo "... parser/utils/ft_lstsize.o"
+	@echo "... parser/utils/ft_lstsize.i"
+	@echo "... parser/utils/ft_lstsize.s"
+	@echo "... parser/utils/ft_strdup.o"
+	@echo "... parser/utils/ft_strdup.i"
+	@echo "... parser/utils/ft_strdup.s"
+	@echo "... parser/utils/ft_strlen.o"
+	@echo "... parser/utils/ft_strlen.i"
+	@echo "... parser/utils/ft_strlen.s"
+	@echo "... parser/word.o"
+	@echo "... parser/word.i"
+	@echo "... parser/word.s"
 .PHONY : help
 
 

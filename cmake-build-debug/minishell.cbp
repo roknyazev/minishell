@@ -81,6 +81,45 @@
 		<Unit filename="/Users/wrudy/Desktop/minishell/main.c">
 			<Option target="minishell"/>
 		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/parse.h">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_back.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstadd_front.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstclear.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstdelone.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstiter.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstlast.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstnew.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstsize.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_strdup.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_strlen.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/utils.h">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/word.c">
+			<Option target="minishell"/>
+		</Unit>
 		<Unit filename="/Users/wrudy/Desktop/minishell/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
