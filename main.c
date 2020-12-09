@@ -1,36 +1,27 @@
 #include "parser/parse.h"
 #include <stdio.h>
 
-void fill_list(t_list **list)
-{
-	int i;
-	t_word *word;
-	t_list *elem;
-
-	i = 0;
-	while (i != 10)
-	{
-		word = word_constructor("123");
-		elem = ft_lstnew(word);
-		ft_lstadd_back(list, elem);
-		i++;
-	}
-}
-
 int main()
 {
-	t_list *list;
-	t_list *elem;
+	t_list *pipeline_list;
+	t_list *pipeline;
+	t_list *command_list;
+	t_list *command;
 
-	list = NULL;
-	fill_list(&list);
+	pipeline_list = parse("dsa|jidsbg|dsahjvh;fsa||djhf|uhd|uos;;fdh|fd;df|sjdsij;s|jifd");
 
-	elem = list;
-	while (elem != NULL)
+	pipeline = pipeline_list;
+	while (pipeline != NULL)
 	{
-		printf("%s\n", ((t_word *)elem->content)->word);
-		elem = elem->next;
+		command_list = pipeline->content;
+		command = command_list;
+		while (command != NULL)
+		{
+			printf("____%s", (char *)(command->content));
+			command = command->next;
+		}
+		printf("\n");
+		pipeline = pipeline->next;
 	}
-	ft_lstclear(&list, (void (*)(void *))word_destructor);
 	return 0;
 }

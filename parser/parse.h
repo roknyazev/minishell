@@ -10,10 +10,11 @@ typedef struct		s_word
 {
 	char			*word;
 	int 			len;
-	void			(* destroy)(struct s_word *self);
 }					t_word;
 
 t_word				*word_constructor(char *word);
-void 				word_destructor(t_word *self);
+void 				word_destructor(t_word *word);
+
+t_list				*parse(char *command_line);
 
 #endif //MINISHELL_PARSE_H

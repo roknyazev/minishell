@@ -170,6 +170,33 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/main.c.s
 .PHONY : main.c.s
 
+parser/parse.o: parser/parse.c.o
+
+.PHONY : parser/parse.o
+
+# target to build an object file
+parser/parse.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/parse.c.o
+.PHONY : parser/parse.c.o
+
+parser/parse.i: parser/parse.c.i
+
+.PHONY : parser/parse.i
+
+# target to preprocess a source file
+parser/parse.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/parse.c.i
+.PHONY : parser/parse.c.i
+
+parser/parse.s: parser/parse.c.s
+
+.PHONY : parser/parse.s
+
+# target to generate assembly for a file
+parser/parse.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/parse.c.s
+.PHONY : parser/parse.c.s
+
 parser/utils/ft_lstadd_back.o: parser/utils/ft_lstadd_back.c.o
 
 .PHONY : parser/utils/ft_lstadd_back.o
@@ -386,6 +413,33 @@ parser/utils/ft_lstsize.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.s
 .PHONY : parser/utils/ft_lstsize.c.s
 
+parser/utils/ft_split.o: parser/utils/ft_split.c.o
+
+.PHONY : parser/utils/ft_split.o
+
+# target to build an object file
+parser/utils/ft_split.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_split.c.o
+.PHONY : parser/utils/ft_split.c.o
+
+parser/utils/ft_split.i: parser/utils/ft_split.c.i
+
+.PHONY : parser/utils/ft_split.i
+
+# target to preprocess a source file
+parser/utils/ft_split.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_split.c.i
+.PHONY : parser/utils/ft_split.c.i
+
+parser/utils/ft_split.s: parser/utils/ft_split.c.s
+
+.PHONY : parser/utils/ft_split.s
+
+# target to generate assembly for a file
+parser/utils/ft_split.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/minishell.dir/build.make CMakeFiles/minishell.dir/parser/utils/ft_split.c.s
+.PHONY : parser/utils/ft_split.c.s
+
 parser/utils/ft_strdup.o: parser/utils/ft_strdup.c.o
 
 .PHONY : parser/utils/ft_strdup.o
@@ -479,6 +533,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... parser/parse.o"
+	@echo "... parser/parse.i"
+	@echo "... parser/parse.s"
 	@echo "... parser/utils/ft_lstadd_back.o"
 	@echo "... parser/utils/ft_lstadd_back.i"
 	@echo "... parser/utils/ft_lstadd_back.s"
@@ -503,6 +560,9 @@ help:
 	@echo "... parser/utils/ft_lstsize.o"
 	@echo "... parser/utils/ft_lstsize.i"
 	@echo "... parser/utils/ft_lstsize.s"
+	@echo "... parser/utils/ft_split.o"
+	@echo "... parser/utils/ft_split.i"
+	@echo "... parser/utils/ft_split.s"
 	@echo "... parser/utils/ft_strdup.o"
 	@echo "... parser/utils/ft_strdup.i"
 	@echo "... parser/utils/ft_strdup.s"

@@ -81,6 +81,9 @@
 		<Unit filename="/Users/wrudy/Desktop/minishell/main.c">
 			<Option target="minishell"/>
 		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/parse.c">
+			<Option target="minishell"/>
+		</Unit>
 		<Unit filename="/Users/wrudy/Desktop/minishell/parser/parse.h">
 			<Option target="minishell"/>
 		</Unit>
@@ -106,6 +109,9 @@
 			<Option target="minishell"/>
 		</Unit>
 		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_lstsize.c">
+			<Option target="minishell"/>
+		</Unit>
+		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_split.c">
 			<Option target="minishell"/>
 		</Unit>
 		<Unit filename="/Users/wrudy/Desktop/minishell/parser/utils/ft_strdup.c">

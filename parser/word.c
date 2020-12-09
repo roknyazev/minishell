@@ -11,10 +11,10 @@ t_word				*word_constructor(char *word)
 	return (result);
 }
 
-void 				word_destructor(t_word *self)
+void 				word_destructor(t_word *word)
 {
-	if (self == NULL)
+	if (word == NULL)
 		return ;
-	free(self->word);
-	free(self);
+	free(word->word);
+	free(word);
 }

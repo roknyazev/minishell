@@ -5,6 +5,10 @@ CMakeFiles/minishell.dir/main.c.o: ../main.c
 CMakeFiles/minishell.dir/main.c.o: ../parser/parse.h
 CMakeFiles/minishell.dir/main.c.o: ../parser/utils/utils.h
 
+CMakeFiles/minishell.dir/parser/parse.c.o: ../parser/parse.c
+CMakeFiles/minishell.dir/parser/parse.c.o: ../parser/parse.h
+CMakeFiles/minishell.dir/parser/parse.c.o: ../parser/utils/utils.h
+
 CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o: ../parser/utils/ft_lstadd_back.c
 CMakeFiles/minishell.dir/parser/utils/ft_lstadd_back.c.o: ../parser/utils/utils.h
 
@@ -28,6 +32,9 @@ CMakeFiles/minishell.dir/parser/utils/ft_lstnew.c.o: ../parser/utils/utils.h
 
 CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o: ../parser/utils/ft_lstsize.c
 CMakeFiles/minishell.dir/parser/utils/ft_lstsize.c.o: ../parser/utils/utils.h
+
+CMakeFiles/minishell.dir/parser/utils/ft_split.c.o: ../parser/utils/ft_split.c
+CMakeFiles/minishell.dir/parser/utils/ft_split.c.o: ../parser/utils/utils.h
 
 CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o: ../parser/utils/ft_strdup.c
 CMakeFiles/minishell.dir/parser/utils/ft_strdup.c.o: ../parser/utils/utils.h
